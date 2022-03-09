@@ -1,5 +1,5 @@
-- 👋 Hello there, name's Aisha
-- 👀 I’m interested in all things OOP and WebDev
+- 👋 Hello there, my name is Aisha! 
+- 👀 I’m interested in all things SoftDev and WebDev
 - 🌱 I’m currently working on a personal landing page and a music recommendation bot.
 - 💞️ I’m looking to collaborate on any Java desktop application projects! Not yet ready for Android stuff, I'd say.
 - 📫 I like playing online games such as League of Legends and Overwatch.
